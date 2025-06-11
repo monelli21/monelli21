@@ -18,5 +18,5 @@ PI of Computational Uncertainty Lab
 **Areas of Research:**   
 Infectious disease forecasting and human judgment
 
-* Resume* = [https://docs.google.com/document/d/1b5l5pfUvUKFZCdMyJobc011QXZhuLHoN4twjJSa1J4w/edit?usp=sharing)
-* LinkedIn* = [www.linkedin.com/in/monelliesfandiary)
+Resume = [https://docs.google.com/document/d/1b5l5pfUvUKFZCdMyJobc011QXZhuLHoN4twjJSa1J4w/edit?usp=sharing)
+LinkedIn = [www.linkedin.com/in/monelliesfandiary)
