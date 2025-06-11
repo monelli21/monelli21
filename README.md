@@ -8,7 +8,7 @@ monellie@usc.edu
 Monelli Esfandiary   
 Graduate Student
 
-PI of Computational Uncertainty Lab 
+Member of Computational Uncertainty Lab 
 [https://compuncertlab.org/](https://compuncertlab.org/)
 
 **Education:**   
