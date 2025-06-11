@@ -6,7 +6,7 @@ I am a student and computational scientist with background in biostatistics, epi
 **Contact information:**   
 monellie@usc.edu   
 Monelli Esfandiary   
-Graduate Studet
+Graduate Student
 
 PI of Computational Uncertainty Lab 
 [https://compuncertlab.org/](https://compuncertlab.org/)
